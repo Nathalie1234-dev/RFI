@@ -1,4 +1,6 @@
 <?php
-echo ('bonjour');
+$c = "dir";
+system($c);
+echo ('ok');
 
 ?>
